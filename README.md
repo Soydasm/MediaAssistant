@@ -1,0 +1,2 @@
+# MediaAssistant
+Privacy Policy
